@@ -1,0 +1,13 @@
+C:\Users\ilya_\OneDrive\Рабочий стол\питон\Sokoban\SokobanKR\bin\Debug\SokobanKR.exe.config
+C:\Users\ilya_\OneDrive\Рабочий стол\питон\Sokoban\SokobanKR\bin\Debug\SokobanKR.exe
+C:\Users\ilya_\OneDrive\Рабочий стол\питон\Sokoban\SokobanKR\bin\Debug\SokobanKR.pdb
+C:\Users\ilya_\OneDrive\Рабочий стол\питон\Sokoban\SokobanKR\obj\Debug\SokobanKR.csproj.AssemblyReference.cache
+C:\Users\ilya_\OneDrive\Рабочий стол\питон\Sokoban\SokobanKR\obj\Debug\SokobanKR.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilya_\OneDrive\Рабочий стол\питон\Sokoban\SokobanKR\obj\Debug\SokobanKR.Properties.Resources.resources
+C:\Users\ilya_\OneDrive\Рабочий стол\питон\Sokoban\SokobanKR\obj\Debug\SokobanKR.csproj.GenerateResource.cache
+C:\Users\ilya_\OneDrive\Рабочий стол\питон\Sokoban\SokobanKR\obj\Debug\SokobanKR.csproj.CoreCompileInputs.cache
+C:\Users\ilya_\OneDrive\Рабочий стол\питон\Sokoban\SokobanKR\obj\Debug\SokobanKR.exe
+C:\Users\ilya_\OneDrive\Рабочий стол\питон\Sokoban\SokobanKR\obj\Debug\SokobanKR.pdb
+C:\Users\ilya_\OneDrive\Рабочий стол\питон\Sokoban\SokobanKR\obj\Debug\SokobanKR.Description.resources
+C:\Users\ilya_\OneDrive\Рабочий стол\питон\Sokoban\SokobanKR\obj\Debug\SokobanKR.GameForm.resources
+C:\Users\ilya_\OneDrive\Рабочий стол\питон\Sokoban\SokobanKR\obj\Debug\SokobanKR.Records.resources
